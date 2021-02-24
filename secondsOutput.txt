@@ -1,0 +1,4 @@
+[13741.008844] /proc/seconds created
+[13745.631684] Number of elapsed seconds since the kernel module was created = 17193314
+[13748.580786] /proc/seconds removed
+[13748.580788] Removing Module
