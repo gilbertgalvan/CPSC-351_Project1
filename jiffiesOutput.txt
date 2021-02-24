@@ -1,0 +1,4 @@
+[13133.369950] /proc/jiffies created
+[13145.759368] Current value of jiffies = 4298178670
+[13153.503040] /proc/jiffies removed
+[13153.503044] Removing Module
